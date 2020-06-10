@@ -2,7 +2,7 @@
 
 ## Current Paper: PastML
 > Ishikawa, S. A., Zhukova, A., Iwasaki, W. & Gascuel, O. A Fast Likelihood Method to Reconstruct and Visualize Ancestral Scenarios. _Mol. Biol. Evol._ 36, 2069–2085 (2019).
-- PastML
+- [PastML](PastML.pdf)
 
 ## Field Review: Sequence evolution and phylogenetics
 
